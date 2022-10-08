@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Oct 2022 09:58:12 at https://programareceitasparasecar.com/?ref=F71215091I +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://programareceitasparasecar.com/?ref=F71215091I -O1 "C:\Meus Sites\Gordurinhas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:58:29	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): static-public.klickpages.com.br/app/assets/javascripts/public/js/body/begin.js?v=1643292544
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/app/assets/stylesheets/fancybox_sprite.png (from static-public.klickpages.com.br/app/assets/stylesheets/publish.css?v=1643292544)
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/app/assets/stylesheets/fancybox_loading.gif (from static-public.klickpages.com.br/app/assets/stylesheets/publish.css?v=1643292544)
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/app/assets/stylesheets/blank.gif (from static-public.klickpages.com.br/app/assets/stylesheets/publish.css?v=1643292544)
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/app/assets/stylesheets/fancybox_overlay.png (from static-public.klickpages.com.br/app/assets/stylesheets/publish.css?v=1643292544)
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/app/assets/stylesheets/fancybox_sprite@2x.png (from static-public.klickpages.com.br/app/assets/stylesheets/publish.css?v=1643292544)
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/app/assets/stylesheets/fancybox_loading@2x.gif (from static-public.klickpages.com.br/app/assets/stylesheets/publish.css?v=1643292544)
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/app/assets/stylesheets/images/bx_loader.gif (from static-public.klickpages.com.br/app/assets/stylesheets/publish.css?v=1643292544)
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/app/assets/stylesheets/images/controls.png (from static-public.klickpages.com.br/app/assets/stylesheets/publish.css?v=1643292544)
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/app/assets/stylesheets/logos/logo-kp-white.svg (from static-public.klickpages.com.br/app/assets/stylesheets/publish.css?v=1643292544)
+10:04:13	Error: 	"Forbidden" (403) at link static-public.klickpages.com.br/tmp/zip/688/images/check.png?v=1493217626 (from static-public.klickpages.com.br/tmp/zip/688/styles/main.css?v=1493217626)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 1 seconds : 75 links scanned, 64 files written (9767476 bytes overall) [8933015 bytes received at 24745 bytes/sec], 1118554 bytes transferred using HTTP compression in 31 files, ratio 19%, 2.8 requests per connection
+(10 errors, 1 warnings, 0 messages)
